@@ -1,0 +1,4 @@
+github.com/rosbit/go-embedding-utils v0.4.1 h1:vwxlGJEO1+fvcm7wVWe1zO0TS1DLktTUmopPa2Kwd2Q=
+github.com/rosbit/go-embedding-utils v0.4.1/go.mod h1:vN49YyUkB9OQI4t/6ofn0+kHYOrn/mAP1cqkzITBoEw=
+github.com/rosbit/go-quickjs v0.6.0 h1:UEddDSr2lizYEbOsw5E16oTVgaYI/+9iyISvq8XNP98=
+github.com/rosbit/go-quickjs v0.6.0/go.mod h1:XxDi4Kf6RbLdjmTMBMK2oBvYTQl4FyLaWCEDVmFou20=
